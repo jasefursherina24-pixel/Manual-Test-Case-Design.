@@ -4,6 +4,10 @@
 
 **Company:** CODTECH IT Solutions
 
+**Intern Name:** JASEFUR SHERINA J
+
+**Intern ID:** CITS7202
+
 **Internship Domain:** Software Testing
 
 **Project Title:** Manual Test Case Design
@@ -12,7 +16,7 @@
 
 ## Objective
 
-The objective of this project is to design and execute manual test cases for a web application to verify its functionality, identify defects, and ensure that the application behaves as expected.
+The objective of this project is to design and execute manual test cases for the SauceDemo web application to verify its functionality, identify defects, and ensure that the application behaves as expected.
 
 ---
 
@@ -34,41 +38,45 @@ https://www.saucedemo.com
 ## Modules Tested
 
 - Login
-- Product Listing
+- Product Page
 - Shopping Cart
-- Checkout
+- Checkout Information
+- Checkout Overview
 - Order Completion
 - Logout
 
 ---
 
-## Types of Testing Performed
+## Testing Performed
 
-- Functional Testing
-- UI Testing
+- Manual Functional Testing
 - Positive Testing
 - Negative Testing
+- UI Testing
 
 ---
 
 ## Project Deliverables
 
 - Test_Plan.docx
-- Test_Cases.xlsx (20 Test Cases)
+- Test_Cases.xlsx
 - Bug_Report.xlsx
-- Screenshots
 - README.md
+- Login Page Screenshot
+- Product Page Screenshot
+- Cart Page Screenshot
+- Checkout Information Page Screenshot
+- Checkout Overview Page Screenshot
+- Order Complete Page Screenshot
 
 ---
 
 ## Project Outcome
 
-Successfully designed and executed 20 manual test cases for the SauceDemo web application. Test execution results were documented, screenshots were captured, and sample bug reports were prepared as part of the project documentation.
+Successfully created and executed 20 manual test cases for the SauceDemo application. All test cases were documented, executed, and verified. The project includes a test plan, test cases, bug report, screenshots, and documentation uploaded to GitHub.
 
 ---
 
-## Author
+## GitHub Repository
 
-Software Testing Intern
-
-CODTECH IT Solutions
+This repository contains all the files required for the CODTECH Manual Test Case Design internship project.
